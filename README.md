@@ -1,5 +1,5 @@
 # FastSlowTopo
-This is the official project repository for "FASTopo: Fast-Slow Lane Segment Topology Reasoning System with Latent World Models"
+This is the official project repository for "FASTopo: Fast-Slow Lane Segment Topology Reasoning with Latent World Models"
 
 ## Visualization
 
