@@ -17,16 +17,38 @@ Shuguang Cui<sup>2,1</sup>, Zhen Li<sup>2,1</sup>
 This repository is built upon [LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet).
 
 
+## Motivation
+
+<div align="center">
+
+  
+![vis1](/motivationv3.jpg)
+
+
+
+</div>
+
+## Framework
+
+<div align="center">
+
+  
+![vis1](/framework.jpg)
+
+
+
+</div>
+
 
 ## Visualizations
 
 <div align="center">
 
   
-![vis1](/merge1.gif)
+![vis3](/merge1.gif)
 
 
-![vis2](/merge2.gif)
+![vis4](/merge2.gif)
 
 
 </div>
