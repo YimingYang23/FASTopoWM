@@ -41,7 +41,7 @@ This repository is built upon [LaneSegNet](https://github.com/OpenDriveLab/LaneS
 
 
 ## Visualizations
-
+The visualization results demonstrate that our predictions maintain robust temporal consistency, reflected in the stable alignment of lane segment coordinates and topological structures as the ego vehicle moves.
 <div align="center">
 
   
