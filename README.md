@@ -8,7 +8,7 @@ Shuguang Cui<sup>2,1</sup>, Zhen Li<sup>2,1</sup>
 <sup>1</sup> FNii-Shenzhen  <sup>2</sup> SSE, CUHK-Shenzhen, <sup>3</sup> T Lab, Tencent
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2507.00709-479ee2.svg)](https://arxiv.org/abs/2507.00709)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.23325-479ee2.svg)](https://arxiv.org/abs/2507.23325)
 
 
 
